@@ -1,4 +1,4 @@
-# C is for Coding!
+# 씨앗의 앞글자가 '씨'라서 C언어를 매우 좋아한다는 가설이 있어요..!
 
 ![C Language](https://ifh.cc/g/tBSCBz.png)
 ![C Language](https://ifh.cc/g/gPH95c.png)
