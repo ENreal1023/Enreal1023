@@ -3,7 +3,7 @@
 ![C Language](https://ifh.cc/g/tBSCBz.png)
 ![C Language](https://ifh.cc/g/gPH95c.png)
 ![C Language](https://ifh.cc/g/HZJzyl.png)\
-<h1>C언어 가족 칭구들</h1>
+<h1>💕C언어 가족 칭구들💕</h1>
 
 ---
 
@@ -14,5 +14,5 @@
 
 <div align="right">
     <img src="https://ifh.cc/g/2XJypv.png" alt="Unreal Engine" width="150" height="150">
-    <h2>🏷️ Unreal 엔진을 쓸줄안다면 정말 간지나는 개발자가 될수 잇찌.</h2>
+    <h2>Unreal 엔진을 쓸줄안다면 정말 간지나는 개발자가 될수 잇찌. 🏷️</h2>
 </div>
