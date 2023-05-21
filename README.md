@@ -8,10 +8,10 @@
 
 <div align="left">
     <img src="https://ifh.cc/g/tl8D1C.png" alt="Unity Engine" width="150" height="150">
-    <p>Unity Engine is an exciting companion that you can't miss if you've learned C language.</p>
+    <p>C을 배웠다면 Unity을 배워야 인생을 헛살지 않찌.</p>
 </div>
 
 <div align="right">
     <img src="https://ifh.cc/g/2XJypv.png" alt="Unreal Engine" width="150" height="150">
-    <p>Unreal Engine is cool once you know how to use it.</p>
+    <p>쓸줄만 안다면 정말 멋있어 보이지..!</p>
 </div>
