@@ -3,8 +3,11 @@
     </div>
     <div class="Pic-C">
         <div style="text-align: center;">
+            + C
             <img src='https://ifh.cc/g/tBSCBz.png'>
+            + C++
             <img src='https://ifh.cc/g/gPH95c.png'>
+            + C#
             <img src='https://ifh.cc/g/HZJzyl.png'>
         </div>
     </div>
