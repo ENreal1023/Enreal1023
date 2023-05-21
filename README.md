@@ -13,7 +13,7 @@
 </div>
 
 <div align="right">
-    <img src="https://ifh.cc/g/o5cnKL.png" alt="Unreal Engine" width="450" height="300">
+    <img src="https://ifh.cc/g/o5cnKL.png" alt="Unreal Engine" width="500" height="300">
     <h2>Unreal 엔진을 쓸줄안다면 정말 간지나는 개발자가 될수 잇찌. 🏷️</h2>
 </div>
 
