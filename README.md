@@ -8,7 +8,7 @@
 ---
 
 <div align="left">
-    <img src="https://ifh.cc/g/tl8D1C.png](https://ifh.cc/g/gWPqHj.jpg" alt="Unity Engine" width="150" height="150">
+    <img src="https://ifh.cc/g/gWPqHj.jpg" alt="Unity Engine" width="150" height="150">
     <h2>🏷️ C#을 할줄 안다면 Unity을 만져봐야, 인생을 헛살지 않찌.</h2>
 </div>
 
