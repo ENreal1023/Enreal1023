@@ -3,7 +3,7 @@
     </div>
     <div class="Pic-C">
         <div>
-            <img src='https://ifh.cc/g/T57PNg.png'>
+            <img src='https://ifh.cc/g/tBSCBz.png'>
         </div>
         <div>
             <img src="" alt="">
