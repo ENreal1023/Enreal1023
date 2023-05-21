@@ -3,11 +3,11 @@
     </div>
     <div class="Pic-C">
         <div style="text-align: center;">
-            <img src='https://ifh.cc/g/TapjcO.png'>
+            <img src='https://ifh.cc/g/gpGO8Q.png'>
             <img src='https://ifh.cc/g/tBSCBz.png'>
             <img src='https://ifh.cc/g/gPH95c.png'>
             <img src='https://ifh.cc/g/HZJzyl.png'>
-            <img src='https://ifh.cc/g/TapjcO.png'>
+            <img src='https://ifh.cc/g/Nwnz5l.png'>
             <h3>C는 최강이야-!!</h3>
         </div>
     </div>
